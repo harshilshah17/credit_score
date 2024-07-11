@@ -69,7 +69,7 @@ If you would like to contribute to this project, please open an issue or submit 
 
 ## Contact
 
-For any inquiries, please contact Harshil Shah at harshilshah.ai@hotmail.com.
+For any inquiries, please contact Harshil Shah at hshah1998@gmail.com
 ```
 
 ### Adding the `README.md` to Your Project
