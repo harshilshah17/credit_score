@@ -71,9 +71,3 @@ If you would like to contribute to this project, please open an issue or submit 
 
 For any inquiries, please contact Harshil Shah at hshah1998@gmail.com
 ```
-
-### Adding the `README.md` to Your Project
-
-1. Create a new file named `README.md` in the root directory of your project.
-2. Copy and paste the content above into the `README.md` file.
-3. Save the file.
